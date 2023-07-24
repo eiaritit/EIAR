@@ -571,4 +571,19 @@ span{
   }
 
 }
+@media only screen and (max-width: 600px){
+  h1{
+    font-size: 40px;
+  }
+  
+  video{
+    position: absolute;
+    top: 150%;
+    left: 70%;
+    width: 59%;
+  }
+  a{
+    width: 30%;
+  }
+}
 
